@@ -2,6 +2,8 @@
 
 This is my personal project containing the solutions to the CMD CHALLENGE game. The table below presents the command-line solutions for each challenge.
 
+![image](https://github.com/jubaan/holbertonschool-system_engineering-devops/blob/main/command_challenge.png)
+
 ## Challenges
 
 | Number | Challenge                                | Command                                                                                 |
